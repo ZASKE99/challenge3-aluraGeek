@@ -60,7 +60,9 @@
     font-size: 1rem;
     font-weight: 700;
 }
-
+.cabecera-products a{
+    text-decoration: none;
+}
 
 /*Responsive*/
 @media (max-width: 1440px){
